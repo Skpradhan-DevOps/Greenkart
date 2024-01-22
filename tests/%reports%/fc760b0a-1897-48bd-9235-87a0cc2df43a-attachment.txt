@@ -1,0 +1,4 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:18 Chrome Driver is initializing
+[32mINFO    [0m BaseClass:BaseClass.py:23 Web Page Launched with URL : https://rahulshettyacademy.com/seleniumPractise/#/
+[32mINFO    [0m BaseClass:BaseClass.py:72 WebElement found with locator value input[type='search'] using locatorType css
+[32mINFO    [0m BaseClass:BaseClass.py:100 Sent the text Tomato in WebElement with locator value input[type='search'] using locatorType css
